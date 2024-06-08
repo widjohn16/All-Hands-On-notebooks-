@@ -1,2 +1,2 @@
-#Hands-On
-Here, you can check out some of my hands-on activities in Data analytics training, there are some notebooks about types of machine learning, such as supervised learning and unsupervised learning. 
+#Hands-On#
+Here, you can explore some of my hands-on activities in Data analytics training,there are some notebooks about all the common use cases for data analytics projects and machine learning problems,such as Churn,Clustering,Generative AI  with LLM and LangChain.Supervised learning models and Unsupervised learning models. 
